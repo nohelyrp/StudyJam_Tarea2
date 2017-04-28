@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b3939</color>
+    <color name="colorPrimaryDark">#2b2b2b</color>
+    <color name="colorAccent">#fffeff</color>
+    <color name="colorButton">#424b50</color>
+    <color name="resultado">#88ac34</color>
+    <color name="operaciones">#9268a4</color>
+    <color name="buttonOperaciones">#626360</color>
+</resources>
